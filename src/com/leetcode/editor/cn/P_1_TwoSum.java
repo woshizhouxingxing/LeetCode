@@ -47,9 +47,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 //[1]两数之和
-public class P1TwoSum {
+public class P_1_TwoSum {
     public static void main(String[] args) {
-        Solution solution = new P1TwoSum().new Solution();
+        Solution solution = new P_1_TwoSum().new Solution();
         System.out.println(Arrays.toString(solution.twoSum(new int[]{3, 2, 4}, 6)));
     }
 

@@ -50,9 +50,9 @@ package com.leetcode.editor.cn;
 import java.util.Arrays;
 
 //[189]旋转数组
-public class P189RotateArray {
+public class P_189_RotateArray {
     public static void main(String[] args) {
-        Solution solution = new P189RotateArray().new Solution();
+        Solution solution = new P_189_RotateArray().new Solution();
         int[] nums = new int[]{1, 2, 3, 4, 5, 6, 7};
         solution.rotate(nums, 5);
         System.out.println(Arrays.toString(nums));

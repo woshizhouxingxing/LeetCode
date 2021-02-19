@@ -45,9 +45,9 @@ package com.leetcode.editor.cn;
 // 👍 1837 👎 0
 
 //[26]删除排序数组中的重复项
-public class P26RemoveDuplicatesFromSortedArray {
+public class P_26_RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
-        Solution solution = new P26RemoveDuplicatesFromSortedArray().new Solution();
+        Solution solution = new P_26_RemoveDuplicatesFromSortedArray().new Solution();
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {

@@ -19,9 +19,9 @@ package com.leetcode.editor.cn;
 // 👍 1702 👎 0
 
 //[136]只出现一次的数字
-public class P136SingleNumber {
+public class P_136_SingleNumber {
     public static void main(String[] args) {
-        Solution solution = new P136SingleNumber().new Solution();
+        Solution solution = new P_136_SingleNumber().new Solution();
 
     }
 

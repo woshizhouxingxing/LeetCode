@@ -42,9 +42,9 @@ package com.leetcode.editor.cn;
 // 👍 1093 👎 0
 
 //[122]买卖股票的最佳时机 II
-public class P122BestTimeToBuyAndSellStockIi {
+public class P_122_BestTimeToBuyAndSellStockIi {
     public static void main(String[] args) {
-        Solution solution = new P122BestTimeToBuyAndSellStockIi().new Solution();
+        Solution solution = new P_122_BestTimeToBuyAndSellStockIi().new Solution();
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {

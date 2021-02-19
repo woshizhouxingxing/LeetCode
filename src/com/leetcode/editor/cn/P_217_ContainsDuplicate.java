@@ -29,9 +29,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 //[217]存在重复元素
-public class P217ContainsDuplicate {
+public class P_217_ContainsDuplicate {
     public static void main(String[] args) {
-        Solution solution = new P217ContainsDuplicate().new Solution();
+        Solution solution = new P_217_ContainsDuplicate().new Solution();
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
